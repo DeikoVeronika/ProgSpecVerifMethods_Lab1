@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgSpecVerifMethods_Lab1", "ProgSpecVerifMethods_Lab1\ProgSpecVerifMethods_Lab1.csproj", "{1241047A-CAC1-4B8E-B6EC-191A2C153DCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgSpecVerifMethods_Lab1_Tests", "ProgSpecVerifMethods_Lab1_Tests\ProgSpecVerifMethods_Lab1_Tests.csproj", "{1F646EAA-A535-4137-86D4-06C13314A314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1241047A-CAC1-4B8E-B6EC-191A2C153DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1241047A-CAC1-4B8E-B6EC-191A2C153DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1241047A-CAC1-4B8E-B6EC-191A2C153DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1241047A-CAC1-4B8E-B6EC-191A2C153DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F646EAA-A535-4137-86D4-06C13314A314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F646EAA-A535-4137-86D4-06C13314A314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F646EAA-A535-4137-86D4-06C13314A314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F646EAA-A535-4137-86D4-06C13314A314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42C534D0-996A-41D1-BB6D-3190B66458C3}
+	EndGlobalSection
+EndGlobal
